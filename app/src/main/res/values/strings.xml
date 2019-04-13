@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Name</string>
+    <string name="race">Race</string>
+    <string name="stats">Stats</string>
+    <string name="wisdom">wisdom:</string>
+    <string name="strength">strength:</string>
+    <string name="dexterity">dexterity:</string>
+    <string name="generate">Generate</string>
+</resources>
